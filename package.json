@@ -40,13 +40,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Mayke-stein/react-native-awesome-library",
+  "repository": "https://github.com/Mayke-stein/react-native-stein-library",
   "author": "Mayke-stein <stein.impo@gmail.com> (https://github.com/Mayke-stein)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mayke-stein/react-native-awesome-library/issues"
+    "url": "https://github.com/Mayke-stein/react-native-stein-library/issues"
   },
-  "homepage": "https://github.com/Mayke-stein/react-native-awesome-library#readme",
+  "homepage": "https://github.com/Mayke-stein/react-native-stein-library#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

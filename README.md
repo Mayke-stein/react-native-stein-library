@@ -1,17 +1,17 @@
-# react-native-awesome-library
+# react-native-stein-library
 
 aa
 
 ## Installation
 
 ```sh
-npm install react-native-awesome-library
+npm install react-native-stein-library
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-awesome-library';
+import { multiply } from 'react-native-stein-library';
 
 // ...
 
